@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Route_Dz/static/css/main.d0c1d4ff.chunk.css",
+    "main.js": "/Route_Dz/static/js/main.e0fc066f.chunk.js",
+    "main.js.map": "/Route_Dz/static/js/main.e0fc066f.chunk.js.map",
+    "runtime-main.js": "/Route_Dz/static/js/runtime-main.fac3d868.js",
+    "runtime-main.js.map": "/Route_Dz/static/js/runtime-main.fac3d868.js.map",
+    "static/js/2.bc8713a3.chunk.js": "/Route_Dz/static/js/2.bc8713a3.chunk.js",
+    "static/js/2.bc8713a3.chunk.js.map": "/Route_Dz/static/js/2.bc8713a3.chunk.js.map",
+    "static/js/3.bfc62bac.chunk.js": "/Route_Dz/static/js/3.bfc62bac.chunk.js",
+    "static/js/3.bfc62bac.chunk.js.map": "/Route_Dz/static/js/3.bfc62bac.chunk.js.map",
+    "index.html": "/Route_Dz/index.html",
+    "static/css/main.d0c1d4ff.chunk.css.map": "/Route_Dz/static/css/main.d0c1d4ff.chunk.css.map",
+    "static/js/2.bc8713a3.chunk.js.LICENSE.txt": "/Route_Dz/static/js/2.bc8713a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fac3d868.js",
+    "static/js/2.bc8713a3.chunk.js",
+    "static/css/main.d0c1d4ff.chunk.css",
+    "static/js/main.e0fc066f.chunk.js"
+  ]
+}
