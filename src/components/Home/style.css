@@ -1,0 +1,21 @@
+.home{
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.title{
+    margin: 0px auto;
+    font-size: 44px;
+    text-align: center;
+}
+
+h1{
+    display: inline-block;
+    margin: 0px auto;
+}
+
+.image{
+    width: 1400px;
+    height: 600px;
+    overflow: hidden;
+}

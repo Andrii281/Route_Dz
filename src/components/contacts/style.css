@@ -1,0 +1,43 @@
+
+.input{
+    border: 1px solid black;
+    width: 100%;
+}
+
+.contactsBlock{
+    margin: 30px auto;
+    border-radius: 20px;
+    border: 1px solid black;
+    padding: 20px;
+    width: 300px;
+
+}
+
+.contactsList{
+    overflow-y: scroll;
+    height: 300px;
+}
+
+.contact{
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 10px;
+}
+
+span{
+
+    margin: 10px;
+}
+
+.addInfoActive{
+    display: block;
+}
+
+.addInfoHiden{
+    display: none;
+}
+
+.FilterBlock{
+    margin: 10px 0px 20px 10px;
+}
